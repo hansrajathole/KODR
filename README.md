@@ -811,34 +811,6 @@ cd KODR
 ---
 
 
-
-## 🔥 **Live Links**
-
-This table summarizes the live demos for various tasks and features implemented during the Bootcamp.
-
-| **Task/Feature**                   | **Description**                                                                  | **Live Link**                                                                                                             |
-| ---------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **Base Habitation**                | Created Awwards Website Nominee Landing Page                                     | [Live Demo](https://bloivating-major.github.io/KODR/Week%201/Week%201.5/Lecture%20Code/Landing%20Page/index.html)         |
-| **Marvel Theme Cards**             | Used array of objects to manipulate the data and changed HTML.                   | [Live Demo](https://bloivating-major.github.io/Cards/Task%201/index.html)                                                 |
-| **User Cards**                     | Added Dynamic Data in Frontend using JavaScript.                                 | [Live Demo](https://bloivating-major.github.io/KODR/Week%203/Week%203.1/Session%202%20Change%20UI%20with%20JS/index.html) |
-| **Cursor Follower**                | Manipulated HTML Element using JavaScript to dynamically follow cursor           | [Live Demo](https://bloivating-major.github.io/KODR/Week%203/Week%203.2/Session%202%20JS%20DOM/Task%201/index.html)       |
-| **Keyboard Event Game Creation**   | Used JavaScript to handle Keyboard Events and change HTML Dynamically            | [Live Demo](https://bloivating-major.github.io/KODR/Week%203/Week%203.2/Session%202%20JS%20DOM/Task%202/index.html)       |
-| **Dynamic Card Data Manipulation** | Changes the Status of a person when button is clicked and Database also changes! | [Live Demo](https://bloivating-major.github.io/KODR/Week%203/Week%203.2/Session%202%20JS%20DOM/Task%203/index.html)       |
-| **Download Button Progress Bar**   | Created a download button and progress bar theme.                                | [Live Demo](https://bloivating-major.github.io/KODR/Week%203/Week%203.4/Session%202%20DOM/Task%201/index.html)       |
-| **Instagram FrontEnd Clone**       | Created landing page of Instagram                                                | [Live Demo](https://bloivating-major.github.io/KODR/Week%203/Week%203.4/Session%202%20DOM/Task%202/index.html)       |
-| **Refocus PortFolio Section Effect**       | **JavaScript DOM Manipulation** With a project to create interactive and dynamic web sections. The features included hover effects, video displays, and progress animations.                                               | [Live Demo](https://bloivating-major.github.io/KODR/Week%204/Week%204.1/Session%201%20DOM/Task%201/index.html)       |
-| **Bubble Game Using JavaScript**       | This project is a fun and interactive **Bubble Pop Game** where players aim to score as many points as possible within a 60-second time frame by clicking on the correct target number. The game is built using vanilla JavaScript, HTML, and CSS.                                              | [Live Demo](https://bloivating-major.github.io/KODR/Week%204/Week%204.2/Session%202%20DOM/index.html)       |
-| **Analog Clock Using JavaScript**       | It replicates the smooth movement of the hour, minute, and second hands, ensuring accurate time representation while dynamically updating the clock hands in real time.                                           | [Live Demo](https://bloivating-major.github.io/KODR/Week%204/Week%204.3/Session%202%20DOM/index.html)       |
-| **Portfolio Website using Tailwind with Responsive Design!**       | This project was centered around building a **responsive website** using **HTML**, **Tailwind CSS**, and **JavaScript**.                                          | [Live Demo](https://bloivating-major.github.io/KODR/Week%204/Week%204.4/Session%202%20TailWind/index.html)       |
-| **Nike Website Hero Section**       | This session focused on learning the fundamentals of **React components** by building a **Navbar** and a **Hero Section** for a responsive shoe store website. The session introduced **React functional components**, the **JSX syntax**, and how to use **Tailwind CSS** for styling.                                        | [Live Demo](https://nike-olive-chi.vercel.app/)       |
-| **KODR Registration Form**       | A modern React application featuring dynamic form management with a responsive navigation system, powered by React Router and Context API.                                   | [Live Demo](https://kodr-form.vercel.app/)       |
-| **Employee Management System**       | The Employee Management System is a web application designed to manage tasks for employees. It features separate pages for admin and employee users. Admins can create new tasks for employees, and these tasks are reflected on the employee's page.                                  | [Live Demo](https://employee-management-system-omega-seven.vercel.app/)       |
-| **Shopping Cart Redux Toolkit**       | A **Shopping Cart Feature** implemented using **React**, **Redux Toolkit**, and **TailwindCSS**. This feature was created during **Week 8, Day 7** of the project development timeline. The application allows users to toggle between light and dark modes, view product listings, and manage a shopping cart.                         | [Live Demo](https://shoppingcart-bice.vercel.app/)       |
-| **Image to Text Generator**       |  An **Image to Text Generator** application. The project involved uploading an image, analyzing it using Google Generative AI, and generating a descriptive text based on a user-provided prompt. It pushed our React and API integration skills to the next level!                  | [Live Demo](https://genz-khaki-xi.vercel.app/)       |
-| **NIKE**       |  Welcome to my latest project! 🚀 This is a **React-based** web application styled with **Tailwind CSS** for sleek responsiveness and modern design. Let's dive into the details! 🌈               | [Live Demo](https://nike-fehr.vercel.app/)       |
-
----
-
 ## 🤝 **Connect with the Community**
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sheryians_coding_school/#)
