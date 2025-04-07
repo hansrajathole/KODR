@@ -7,7 +7,7 @@
 Write the following commands on your terminal to clone this repository, so that you can run this project locally.
 
 ```bash
-git clone https://github.com/atholehansraj/KODR.git
+git clone https://github.com/hansrajathole/KODR.git
 ```
 
 ## 📂 **Table of Contents**
@@ -26,7 +26,7 @@ git clone https://github.com/atholehansraj/KODR.git
 To clone this repository for your local use, use the following commands:
 
 ```bash
-git clone https://github.com/Bloivating-Major/KODR.git
+git clone https://github.com/hansrajathole/KODR.git
 cd KODR
 ```
 
